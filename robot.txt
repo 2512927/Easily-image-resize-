@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://2512927.github.io/Easily-image-resize-/sitemap.xml
